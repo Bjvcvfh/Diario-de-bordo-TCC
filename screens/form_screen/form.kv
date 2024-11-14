@@ -1,0 +1,30 @@
+<Form>
+    name: "Form"
+    FloatLayout:
+
+        Image:
+            source: 'images/LOGO.jpeg'
+            size_hint: (0.8, 0.5)
+            pos_hint: {'center_x': 0.5, 'center_y': 0.75}
+
+        MDRaisedButton:
+            text: "Registrar Marcacao"
+            size_hint: None, None
+            size: dp(200), dp(50)
+            pos_hint: {'center_x': 0.5, 'center_y': 0.59} 
+            on_press: root.coletar_data_hora()
+
+        MDRaisedButton:
+            text: "Registrar Refeição"
+            size_hint: None, None
+            size: dp(200), dp(50)
+            pos_hint: {'center_x': 0.5, 'center_y': 0.50}  
+            on_press: root.coletar_refeicao()
+            
+        MDRectangleFlatButton:
+            text: "Extrair Relatório"
+            pos_hint: {'center_x': 0.5, 'center_y': 0.41}  
+            theme_text_color: "Custom"
+            text_color: "black"
+            line_color: "black"
+            on_press: root.compartilhar_csv()

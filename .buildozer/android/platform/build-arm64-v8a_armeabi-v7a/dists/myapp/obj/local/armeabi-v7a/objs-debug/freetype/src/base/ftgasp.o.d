@@ -1,0 +1,110 @@
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/obj/local/armeabi-v7a/objs-debug/freetype/./src/base/ftgasp.o: \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/base/ftgasp.c \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftgasp.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/freetype.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/ft2build.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftheader.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftconfig.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftoption.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftstdlib.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/integer-types.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/public-macros.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/mac-support.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fttypes.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftsystem.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftimage.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fterrors.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmoderr.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fterrdef.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/tttypes.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/tttables.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftobjs.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftrender.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmodapi.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftglyph.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftsizes.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftlcdfil.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftparams.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftmemory.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/compiler-macros.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftgloadr.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftdrv.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/autohint.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftserv.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftcalc.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftincrem.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftcolor.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmm.h \
+  /home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/t1tables.h
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftgasp.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/freetype.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/ft2build.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftheader.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftconfig.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftoption.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftstdlib.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/integer-types.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/public-macros.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/mac-support.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fttypes.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftsystem.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftimage.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fterrors.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmoderr.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fterrdef.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/tttypes.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/tttables.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftobjs.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftrender.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmodapi.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftglyph.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftsizes.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftlcdfil.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftparams.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftmemory.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/compiler-macros.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftgloadr.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftdrv.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/autohint.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftserv.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftcalc.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftincrem.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftcolor.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmm.h:
+
+/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/t1tables.h:

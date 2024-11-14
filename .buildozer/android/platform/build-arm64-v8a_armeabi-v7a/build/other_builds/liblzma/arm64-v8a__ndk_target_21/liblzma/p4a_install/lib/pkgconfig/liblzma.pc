@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/liblzma/arm64-v8a__ndk_target_21/liblzma/p4a_install
+exec_prefix=/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/liblzma/arm64-v8a__ndk_target_21/liblzma/p4a_install
+libdir=/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/liblzma/arm64-v8a__ndk_target_21/liblzma/p4a_install/lib
+includedir=/home/renan/Desktop/Tela/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/other_builds/liblzma/arm64-v8a__ndk_target_21/liblzma/p4a_install/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.4
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private:  

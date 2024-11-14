@@ -1,0 +1,9 @@
+certifi
+chardet
+idna
+kaki
+kivymd
+python-dateutil
+pytz
+requests
+urllib3

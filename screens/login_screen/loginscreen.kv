@@ -1,0 +1,42 @@
+<LoginScreen>
+
+    FloatLayout:
+
+        MDTopAppBar:
+            md_bg_color: 1,1,1,0
+            elevation: 0
+            pos_hint: {'top': 1}
+            left_action_items: [["arrow-left", lambda x: root.callback()]]
+
+
+        Image:
+            source: 'images/LOGO.jpeg'
+            size_hint: (0.8, 0.5)
+            pos_hint: {'center_x': 0.5, 'center_y': 0.7}
+
+        MDLabel:
+            text: "Seja bem-vindo!"
+            font_style: "H5"
+            bold: True
+            halign:'center'
+            pos_hint: {'center_x': 0.5, 'center_y': 0.84}
+
+        MDTextField:
+            id: username
+            hint_text: "Usuário"
+            pos_hint: {'center_x': 0.5, 'center_y': 0.47}
+            size_hint_x: .8
+            icon_right: 'mail'    
+
+        MDTextField:
+            id: password
+            hint_text: "Senha"
+            password: True
+            pos_hint: {'center_x': 0.5, 'center_y': 0.35}
+            size_hint_x: .8
+            icon_right: 'lock'
+
+        MDRaisedButton:
+            text: "Entrar"
+            pos_hint: {'center_x': 0.5, 'center_y': 0.23}   
+            on_release: root.verificar_login()
